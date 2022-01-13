@@ -272,7 +272,7 @@ sleep 10
 tanzu package install tap -p tap.tanzu.vmware.com -v $tap_version --values-file tap-values.yml -n tap-install 
 
 
-echo "Cross your fingers and pray , or call Timo"
+echo "please be patient the process can take a while"
 
 
 read -p "ready to test? (enter: yes to continue)"
